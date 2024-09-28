@@ -1,0 +1,3 @@
+<template>
+  <UsersTable />
+</template>
